@@ -1,0 +1,21 @@
+body {
+    background-color: #FFF2EB;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+
+.container {
+    width: 960;
+    margin: auto;
+    padding: 16px;
+}
+
+ul {
+    padding: 12;
+    margin: 0;
+}
